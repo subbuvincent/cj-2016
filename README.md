@@ -27,4 +27,4 @@ Use Curl
 DN0a22984e:exercises subbuvincent$ curl https://sunlightfoundation.com/tools/expenditures/ | ack -o 'http.+?detail.csv'
 
 #Install ACK
-http://beyondgrep.com/install/
+http://beyondgrep.com/install/   - used the homebrew Mac install 
